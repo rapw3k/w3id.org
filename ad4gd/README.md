@@ -6,3 +6,4 @@ References:
 
 Contacts: 
 * Raul Palma <rpalma@man.poznan.pl>
+* Alejandro Villar <avillar@ogc.org>
